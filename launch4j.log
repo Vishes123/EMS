@@ -1,0 +1,18 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\ASUA\OneDrive\Desktop\java\JDBC\setup\EMS.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\ASUA\OneDrive\Desktop\java\JDBC\setup\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\ASUA\OneDrive\Desktop\java\JDBC\setup\jre\bin\javaw.exe (OK)
+Version string: 1.021.000_001 / 64-Bit (OK)
+Launcher:	C:\Users\ASUA\OneDrive\Desktop\java\JDBC\setup\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\ASUA\OneDrive\Desktop\java\JDBC\setup\EMS.exe"
+Args length:	61/32768 chars
+Exit code:	0
